@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /radio/
+Disallow: /tv/
