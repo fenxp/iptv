@@ -1,4 +1,10 @@
-IPTV  update：
+
+📔 IPTV  UPDATE：
+
+ "Auto Update IPTV in ". date('Y-m-d H:i:s')."  GPT"; 
+
+
+ 
  📄M3U转TXT格式：
   - Demo🔗 [https://live.fenxp.com/api/m3u.php?url=https://raw.githubusercontent.com/fenxp/iptv/main/ipv6.m3u](https://live.fenxp.com/api/m3u.php?url=https://raw.githubusercontent.com/fenxp/iptv/main/ipv6.m3u)
 
