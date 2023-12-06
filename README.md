@@ -1,5 +1,8 @@
 
 
+
+
+
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -81,7 +84,7 @@
   <li>📆EPG接口地址：
     <ul>
       <li><a href="https://raw.githubusercontent.com/fenxp/iptv/main/tv/epg.xml">https://raw.githubusercontent.com/fenxp/iptv/main/tv/epg.xml</a></li>
-      
+      </ul>
     
   </li>
 
@@ -111,16 +114,14 @@
 
 <h2 id="更新">📔更新</h2>
 <ul><li>
-Auto Update IPTV in 2023-12-07 00:56:59  GPT</li>
+Auto Update IPTV in 2023-12-07 00:59:14  GPT</li>
 </ul>
 
 
       
 
       
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+  
   </body>
 </html>
 
