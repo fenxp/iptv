@@ -90,7 +90,7 @@
 
   <li>📄M3U转TXT格式：
     <ul>
-      <li> <a href="https://live.fenxp.com/api/m3u.php?url=https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u">https://live.fenxp.com/api/m3u.php?url=https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u</a></li>
+      <li> <a href="https://fanmingming.com/txt?url=https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u">https://fanmingming.com/txt?urlurl=https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u</a></li>
     </ul>
   </li>
 
